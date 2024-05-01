@@ -10,4 +10,6 @@ Esse projeto foi desenvolvido dia 30-04-2024, portando ainda não temos o valor 
 
 Para instalar as dependências, basta fazer a instalaçã do requirements.txt disponível no git
 
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
+
+Como se trata de um projeto acadêmico, o noteboook "models_predict.ipynb" está com todas as etapas comentadas para facilitar o entendimento.
