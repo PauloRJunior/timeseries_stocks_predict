@@ -6,7 +6,7 @@ from datetime import date
 #Parametros de consulta
 #symbol = 'PBR'  #Symbol da ação sugerida  PBR -> Pétroleo Brasileiro S.A - Petrobras (PBR)
 #outputsize = 'full' #full: tudo, compact: 100 dias
-#apikey = '8023BW716Z4D4N2Q' #KEY DA API gratis
+#apikey = 'XXXXXXXXXX' #KEY DA API gratis
 
 class GetInformation:
     def __init__(self,symbol,outputsize,apikey):

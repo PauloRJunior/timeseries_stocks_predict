@@ -1,4 +1,4 @@
-### Projeto - Análise e Modelagemd e Série Temporal
+### Projeto - Análise e Modelagem de Modelo Série Temporal
 
 Neste projeto será efetuado a ingestão dos valores de uma ação da bolsa de valores, como o seu preço de abertura, fechamento e o volume. Para tal, usaremos um script de consulta via API (ingestor_api.py). Posteriormente será efetuado uma análise e aplicação de técnicas de ciência de dados para a modelagem de um modelo de série temporal e finalmente iremos aplicar esses modelos desenvolvidos para prever o valor da ação para o próximo dia.
 
